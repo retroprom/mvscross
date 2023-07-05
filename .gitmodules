@@ -1,0 +1,9 @@
+[submodule "mvsgcc"]
+	path = mvsgcc
+	url = https://github.com/retroprom/mvsgcc.git
+[submodule "mvsclib"]
+	path = mvsclib
+	url = https://github.com/retroprom/mvsclib.git
+[submodule "jcc"]
+	path = jcc
+	url = https://github.com/retroprom/jcc.git
