@@ -7,3 +7,6 @@
 [submodule "jcc"]
 	path = jcc
 	url = https://github.com/retroprom/jcc.git
+[submodule "rdrprep"]
+	path = rdrprep
+	url = https://github.com/retroprom/rdrprep.git
